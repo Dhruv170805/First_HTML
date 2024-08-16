@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color:gray;
     height: 100vh;
      margin: 0%;
      padding: 0%;
@@ -17,6 +17,7 @@ body {
      align-content: center;
      justify-content: center;
      box-shadow: none;
+    
     
 }
 
@@ -38,7 +39,7 @@ img {
 
 h2 {
     margin: 25px;
-    color: aquamarine;
+    color: black;
 }
 
 input {
@@ -50,7 +51,8 @@ input {
 }
 
 button {
-    background-color: aquamarine;
+    color: antiquewhite;
+    background-color:rgb(21, 177, 220);
     border: none;
     padding: 5px 5px 5px 5px;
     border-radius: 10%;
@@ -64,5 +66,5 @@ p {
 
 a {
     text-decoration: none;
-    color: aquamarine;
+    color: rgb(21, 177, 220);
 }
